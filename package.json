@@ -1,0 +1,9 @@
+{
+  "name": "gitservice",
+  "version": "1.0.0",
+  "main": "./src/index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "octokit": "^2.0.14"
+  }
+}
